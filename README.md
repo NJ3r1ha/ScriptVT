@@ -9,6 +9,6 @@ This is a simple script that checks the hash of a file through the VirusTotal AP
 
 ## Requirements
 - Python 3.x
-- requests library (install via 'pip insatll requests'
+- requests library (install via 'pip insatll requests')
 - A valid **VirusTotal API key**
 - A JSON file containing the hash
